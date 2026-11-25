@@ -5,3 +5,11 @@ build/
 *.exp
 .vscode/
 *.db
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+ZERO_CHECK*
+vcpkg-manifest-install.log
